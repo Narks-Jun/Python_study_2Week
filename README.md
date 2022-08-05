@@ -1,2 +1,2 @@
-# Python_study_4Week
+# Python_study_2Week
 python example
